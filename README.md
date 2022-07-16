@@ -1,6 +1,7 @@
-# Hey there! I'm Chirag<img src="https://github.com/chiragn888/chiragn888/blob/main/assets/animation_500_l5nzoclk.gif" width="100px" height="100px">
-<img align="right"  src="https://github.com/chiragn888/chiragn888/blob/main/assets/mcefeeline-removebg-preview.png" width="500"/>
-
+# Hey there! I'm Chirag<img src="https://github.com/chiragn888/chiragn888/blob/main/assets/mcefeeline-removebg-preview.png" width="100px" height="100px">
+<img align="right"  src="https://github.com/chiragn888/chiragn888/blob/main/assets/NUX_Octodex.gif" width="500"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragn888&label=Profile%20views&color=0e75b6&style=flat" alt="chiragn888" /> </p>
+[![Github](https://img.shields.io/github/followers/chiragn888?label=Follow&style=social)](https://github.com/chiragn888)
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Blockchain Application Development
@@ -21,11 +22,15 @@
 <br>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragn888&show_icons=true&locale=en&layout=compact" alt="chiragn888" /></p>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=chiragn888&show_icons=true&locale=en" alt="chiragn888" /></p>
 
 
 <h3> 🤝🏻 Let's Connect </h3>
-
+<p align="left">
+&nbsp; <a href="https://twitter.com/ChiragN12120003" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/_chirag_n/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/chirag-n-a231071bb/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:chiragn888@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 
 
