@@ -1,7 +1,7 @@
 # Hey there! I'm Chirag<img src="https://github.com/chiragn888/chiragn888/blob/main/assets/mcefeeline-removebg-preview.png" width="100px" height="100px">
 <img align="right"  src="https://github.com/chiragn888/chiragn888/blob/main/assets/NUX_Octodex.gif" width="500"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragn888&label=Profile%20views&color=0e75b6&style=flat" alt="chiragn888" /> </p>
-[![Github](https://img.shields.io/github/followers/chiragn888?label=Follow&style=social)](https://github.com/chiragn888)
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Blockchain Application Development
