@@ -1,5 +1,4 @@
 # Hey there! I'm Chirag<img src="https://github.com/chiragn888/chiragn888/blob/main/assets/mcefeeline-removebg-preview.png" width="100px" height="100px">
-<img align="right"  src="https://github.com/chiragn888/chiragn888/blob/main/assets/Screenshot_2022-07-16_at_9.10.37_PM-removebg-preview.png" width="500"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragn888&label=Profile%20views&color=0e75b6&style=flat" alt="chiragn888" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
