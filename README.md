@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Blockchain Application Development
+- 🔭 &nbsp; I’m currently learning NLP and DL
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Science.
-- 💼 &nbsp; Front End Web Developer | Machine Learning & AI | Blockchain.
-- 🌱 &nbsp; Enthusiast in Blockchain and Artificial Intelligence .
+- 💼 &nbsp; Front End Web Developer | Data Science | Blockchain.
+- 🌱 &nbsp; Tech Enthusiast.
  
 
 <h3>🛠 Tech Stack</h3>
@@ -16,7 +16,7 @@
 - 💻 &nbsp; Python | Java | C++  
 - 👾 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | Solidity
 - 🛢 &nbsp; MySQL | Firebase 
-- ⚙️ &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Remix
+- ⚙️ &nbsp; Android Studio | PyCharm | Visual Studio code | Jupyter | Eclipse | Git | Remix
 - 🚀 &nbsp; Tensorflow | Keras | OpenCV 
 
 <br>
