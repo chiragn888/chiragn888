@@ -1,4 +1,4 @@
-# Hey there! I'm Chirag<img src="https://github.com/chiragn888/chiragn888/blob/main/assets/mcefeeline-removebg-preview.png" width="100px" height="100px">
+# Hey there! I'm Chirag
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragn888&label=Profile%20views&color=0e75b6&style=flat" alt="chiragn888" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
