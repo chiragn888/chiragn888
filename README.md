@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning NLP and DL
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Science.
+- 🎓 &nbsp; Graduated with a Degree in Information Science Engineering.
 - 💼 &nbsp; Front End Web Developer | Data Science | Blockchain.
 - 🌱 &nbsp; Tech Enthusiast.
  
