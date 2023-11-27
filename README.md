@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m a Data Scientist
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated with a Degree in Information Science Engineering.
-- 💼 &nbsp; Front End Web Developer | Data Science | Blockchain.
+- 💼 &nbsp; Data Science | Blockchain.
 - 🌱 &nbsp; Tech Enthusiast.
  
 
