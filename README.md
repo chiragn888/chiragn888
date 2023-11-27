@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning NLP and DL
+- 🔭 &nbsp; I’m Data Scientist
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated with a Degree in Information Science Engineering.
 - 💼 &nbsp; Front End Web Developer | Data Science | Blockchain.
